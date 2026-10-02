@@ -238,6 +238,17 @@ Além da área de dados, também mantenho contato com desenvolvimento web, Linux
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0f172a,100:020617&height=120&section=footer"
     width="100%"
   />
+  ## Formação complementar
+
+| Curso | Instituição | Carga horária |
+|---|---|---:|
+| Python para Ensino de Física | PET Física – UFAM | 8h |
+| Lógica de programação: mergulhe em programação com JavaScript | Alura | 6h |
+| Git e Versionamento | Ada Tech | 2h |
+| Desenvolvimento Web básico com JavaScript | Ada Tech | 13h |
+| HTML – Básico | Fundação Bradesco – Escola Virtual | 11h |
+| CSS | Ada Tech | 6h |
+| React – Básico | Ada Tech | 7h |
 
   <sub>
     Caio Guilherme dos Santos Bruno • Data Analytics • Python • SQL
