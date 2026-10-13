@@ -81,12 +81,12 @@ Além da área de dados, também mantenho contato com desenvolvimento web, Linux
 <table>
   <tr>
     <td width="100%">
-      <h3>Roleta Russa de Números</h3>
+      <h3>Chamados de TI</h3>
       <p>
         Projeto desenvolvido com HTML, CSS e JavaScript.
       </p>
       <p>
-        <a href="https://github.com/cgsbrun0/Roleta-Russa-de-numeros">
+        <a href="(https://github.com/cgsbrun0/Chamados-TI)">
           <img src="https://img.shields.io/badge/Ver%20repositório-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
