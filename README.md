@@ -30,9 +30,9 @@
 
 ## Sobre mim
 
-Meu nome é **Caio Guilherme dos Santos Bruno** e direciono meus estudos e projetos para **Data Analytics**, com foco em **Python, SQL e análise de dados**.
+Meu nome é **Caio Guilherme dos Santos Bruno**, sou formado em Física pela Universidade Federal do Amazonas- UFAM, e direciono meus estudos e projetos para **Data Analytics**, com foco em **Python, SQL e análise de dados**.
 
-Tenho interesse em transformar dados em informações úteis, explorar problemas de forma estruturada e desenvolver soluções com apoio de programação e ferramentas tecnológicas.
+Por causa da minha área, tenho interesse em transformar dados em informações úteis, explorar problemas de forma estruturada e desenvolver soluções com apoio de programação e ferramentas tecnológicas. Dessa forma, tenho muita facilidade com análise de padrões, conhecimento de lógica e muito mais.
 
 Além da área de dados, também mantenho contato com desenvolvimento web, Linux e versionamento de código, ampliando minha base técnica e minha capacidade de trabalhar com diferentes tipos de projetos.
 
