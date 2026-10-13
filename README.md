@@ -102,7 +102,7 @@ Além da área de dados, também mantenho contato com desenvolvimento web, Linux
 
 <a href="https://github.com/cgsbrun0/Chamados-TI">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=cgsbrun0&repo=Roleta-Russa-de-numeros&theme=github_dark&hide_border=true&bg_color=020617&title_color=3b82f6&icon_color=3b82f6&text_color=cbd5e1"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=cgsbrun0&repo=Chamados-TI&theme=github_dark&hide_border=true&bg_color=020617&title_color=3b82f6&icon_color=3b82f6&text_color=cbd5e1"
   />
 </a>
 
