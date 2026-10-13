@@ -148,53 +148,15 @@ Além da área de dados, também mantenho contato com desenvolvimento web, Linux
 
 <br>
 
-<!-- ========================= -->
-<!--      ACTIVITY GRAPH       -->
-<!-- ========================= -->
+## Projetos em destaque
 
-## Activity Graph
+### 📊 Análise de Chamados de TI
 
-<div align="center">
+Análise exploratória de chamados de suporte utilizando dados fictícios, com cálculo de tempo de resolução, cumprimento de SLA, satisfação dos usuários e geração automática de gráficos.
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cgsbrun0&bg_color=020617&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true"
-  width="100%"
-/>
+**Tecnologias:** Python, Pandas, Matplotlib e Seaborn.
 
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--         TROPHIES          -->
-<!-- ========================= -->
-
-## GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=cgsbrun0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
-/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--          SNAKE            -->
-<!-- ========================= -->
-
-## Contributions
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/cgsbrun0/cgsbrun0/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake contribution"
-/>
-
-</div>
+[🔗 Ver projeto no GitHub](https://github.com/cgsbrun0/analise-chamados-ti)
 
 <br>
 
